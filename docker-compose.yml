@@ -1,7 +1,7 @@
 services:
 
   app1:
-    build: ./app1
+    build: ./app1234256
     container_name: app1
 
   app2:
